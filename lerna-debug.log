@@ -1,0 +1,4 @@
+72 error Error: ENOENT: no such file or directory, rename '/home/alanbm94/WebDev/typescript/react-ts/jbook/jbook/packages/local-client/package.json.lerna_backup' -> '/home/alanbm94/WebDev/typescript/react-ts/jbook/jbook/packages/local-client/package.json'
+72 error     at Object.renameSync (fs.js:756:3)
+72 error     at cleanup (/home/alanbm94/.nvm/versions/node/v14.4.0/lib/node_modules/lerna/node_modules/@lerna/npm-install/npm-install.js:70:10)
+72 error     at done (/home/alanbm94/.nvm/versions/node/v14.4.0/lib/node_modules/lerna/node_modules/@lerna/npm-install/npm-install.js:78:7)
